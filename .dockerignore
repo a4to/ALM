@@ -1,0 +1,9 @@
+.vscode
+alm
+app
+macapp
+dist
+llm/llama.cpp
+.env
+.cache
+test_data
